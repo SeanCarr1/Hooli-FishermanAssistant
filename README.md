@@ -14,8 +14,6 @@ A modern Java Swing desktop application to help fishermen log catches, manage tr
 
 
 
-
-
 ## File Structure
 - `src/` — Java source code (organized by package)
 - `images/` — Image resources
