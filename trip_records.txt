@@ -1,0 +1,5 @@
+// username|date|boatType|fuelUsed|tripDuration|catchIds
+seancarr1|2025-06-04|Small Canoe|25.0|5.0|2006-05-25:Tilapia:25.0,2023-01-10:Tuna:12.5,2023-01-15:Salmon:8.2,2023-01-25:Bangus:10.0
+seancarr1|2025-06-05|Small Canoe|30.0|2.0|
+seancarr1|2025-05-25|Small Canoe|25.0|10.0|
+seancarr1|2025-06-03|Small Canoe|25.0|25.0|

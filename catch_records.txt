@@ -1,0 +1,30 @@
+seancarr1|2005-12-05|Bangus|25.0|West PH Sea|
+seancarr1|2006-05-25|Tilapia|25.0|South China Sea|
+seancarr1|2023-01-10|Bangus|12.5|Manila Bay|2025-06-04
+seancarr1|2023-01-15|Salmon|8.2|Laguna Lake|
+seancarr1|2023-01-20|Tilapia|5.0|Laguna Lake|
+seancarr1|2023-01-25|Bangus|10.0|West PH Sea|2025-05-25
+seancarr1|2023-02-01|Tuna|15.0|Manila Bay|
+seancarr1|2023-02-05|Tilapia|7.5|Laguna Lake|
+seancarr1|2023-02-10|Salmon|9.0|Laguna Lake|
+seancarr1|2023-02-15|Bangus|11.0|West PH Sea|
+seancarr1|2023-02-20|Tuna|13.0|Manila Bay|
+seancarr1|2023-02-25|Tilapia|6.0|Laguna Lake|
+seancarr1|2023-03-01|Salmon|10.0|Laguna Lake|
+seancarr1|2023-03-05|Bangus|12.0|West PH Sea|2025-06-05
+seancarr1|2023-03-10|Tuna|14.0|Manila Bay|
+seancarr1|2023-03-15|Tilapia|8.0|Laguna Lake|
+seancarr1|2023-03-20|Bangus|7.0|Laguna Lake|2025-06-05
+seancarr1|2023-03-25|Bangus|13.0|West PH Sea|
+seancarr1|2023-03-30|Tuna|16.0|Manila Bay|
+seancarr1|2023-04-05|Tilapia|9.0|Laguna Lake|
+seancarr1|2025-01-25|Cod|30.0|Coast of Lucena|
+seancarr1|2025-05-26|Cod|15.0|Coast of Lucena|
+seancarr1|2025-06-04|Bangus|25.0|Laguna|2025-06-03
+seancarr1|2005-05-25|Bangus|25.0|Somehwere|
+seancarr1|2005-05-25|Bangus|30.0|asad|
+seancarr1|2005-05-25|Bangus|25.0|30|2025-05-25
+seancarr1|2005-05-25|Bangus|39.0|laguna|2025-06-05
+seancarr1|2005-05-25|Bangus|30.0|30|2025-06-05
+seancarr1|2025-06-05|Bangus|50.0|laguna|2025-06-04
+seancarr1|2025-06-05|Bangus|30.0|sample|2025-05-25

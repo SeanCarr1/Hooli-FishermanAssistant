@@ -1,0 +1,4 @@
+OBJECTIVE: 
+1. To design and implement a Java program using Object Oriented Programming principles that addresses real-world challenges faced by fishermen.
+2. To provide a modern, user-friendly application for logging catches, managing trips, and analyzing fishing data, thereby delivering valuable digital services to fishermen.
+3. To help fishermen make informed decisions, improve productivity, and simplify record-keeping through intuitive features and data-driven insights.
