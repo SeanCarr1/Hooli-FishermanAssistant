@@ -1,0 +1,7 @@
+/bin/
+/out/
+/*.class
+*.iml
+*.log
+.DS_Store
+*.jar
