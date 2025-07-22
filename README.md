@@ -1,6 +1,7 @@
 # Hooli Fisherman Assistant
 
 A modern Java Swing desktop application to help fishermen log catches, manage trips, and analyze fishing performance.
+<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/3f132bcd-3977-425b-99a7-017df49f7a4d" />
 
 ## Features
 - **Dashboard:** Overview of fishing activity, recent catches, and statistics.
